@@ -1,7 +1,10 @@
 package SASMPLE1;
 
 import java.awt.EventQueue;
-
+//n,dgjklfdhig
+///vkjguih
+//kvjcfhbgvubiot
+//vlkjdfhgu-9
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
